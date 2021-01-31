@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+ 
+}
+.navbar-brand{
+  margin: 0 30px;
+}
+.formulaire{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 50px 10px;
+}
+.form-group{
+  margin: 30px;
+}
+.formulairePGauche ,.formulairePDroite{
+  width: 700px;
+}
+.formulairePGauche img{
+  width: 150px;
+}
+.formulairePGauche iframe{
+  width:600px;
+   height:200px ;
+   border: 0;
+  
+}
+
+
+
+
